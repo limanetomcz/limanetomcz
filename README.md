@@ -19,7 +19,7 @@
 - Pós Graduação em **Administração de Banco de Dados** (2024)
 - Pós Graduação em **Gestão de Projetos**
 - Pós Graduação em **Engenharia de Software**
-- Graduação em **Sistemas de Informação**
+- Graduação em **Análise de Sistemas**
 
 ## 🚀 Experiência Profissional
 
