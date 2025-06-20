@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou José Lima Neto!
 
-🎯 **Desenvolvedor Full Stack** com mais de **15 anos de experiência** em tecnologias como **PHP**, **JavaScript**, **jQuery**, **Vue.js**, **SQL**, **RabbitMQ**, e muito mais.
+🎯 **Desenvolvedor Full Stack** com mais de **20 anos de experiência** em tecnologias como **PHP**, **JavaScript**, **jQuery**, **Vue.js**, **SQL**, **RabbitMQ**, e muito mais.
 
 ## 🔧 Minhas Skills
 
