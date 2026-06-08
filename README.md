@@ -5,11 +5,11 @@
 ## 🔧 Minhas Skills
 
 - **Linguagens e Frameworks**:
-  - PHP (versões 5 a 8.3), Laravel (versões 6 a 11), Zend Framework 1, JavaScript, jQuery, Vue.js
+  - PHP (versões 5 a atual), Laravel (versões 6 a atual), Zend Framework 1, JavaScript, jQuery, Vue.js
 - **Banco de Dados**:
   - MySQL, Oracle, PostgreSQL, SQL Server, Redis, MongoDB
 - **Ferramentas e Tecnologias**:
-  - Docker, RabbitMQ, Git, GitHub, GitFlow, GitLab, SVN, AWS (S3, EC2, SNS), APIs REST
+  - Docker, RabbitMQ, Git, GitHub, GitFlow, GitLab, SVN, AWS (S3, EC2, SNS), APIs REST, Jenkins
 - **Padrões e Arquiteturas**:
   - SOLID, Microservices, Design Patterns
 - **Metodologias Ágeis**:
@@ -23,7 +23,7 @@
 
 ## 🚀 Experiência Profissional
 
-Atuei em várias empresas renomadas, como **Uniodonto Maceió**, **Unimed Maceió**, **Hospital Memorial Arthur Ramos**, **SplitPay Brasil**, desenvolvendo projetos que envolvem desde sistemas financeiros até integração de APIs e soluções em micro serviços.
+Atuei em várias empresas renomadas, como **Uniodonto Maceió**, **Unimed Maceió**, **Hospital Memorial Arthur Ramos**, **SplitPay Brasil**, **Digisystem**, **Spassu**, **G4F** desenvolvendo projetos que envolvem desde sistemas financeiros até integração de APIs e soluções em micro serviços.
 
 ## 🛠 Projetos Recentes
 - **Sistema de Digitalização de Documentos Hospitalares** utilizando **PHP + jQuery**
